@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/whiteboard/static/css/main.c9eb22c8.chunk.css",
+    "main.js": "/whiteboard/static/js/main.211d78cc.chunk.js",
+    "main.js.map": "/whiteboard/static/js/main.211d78cc.chunk.js.map",
+    "runtime-main.js": "/whiteboard/static/js/runtime-main.948c14c4.js",
+    "runtime-main.js.map": "/whiteboard/static/js/runtime-main.948c14c4.js.map",
+    "static/js/2.f74cf25f.chunk.js": "/whiteboard/static/js/2.f74cf25f.chunk.js",
+    "static/js/2.f74cf25f.chunk.js.map": "/whiteboard/static/js/2.f74cf25f.chunk.js.map",
+    "static/js/3.9c39beb4.chunk.js": "/whiteboard/static/js/3.9c39beb4.chunk.js",
+    "static/js/3.9c39beb4.chunk.js.map": "/whiteboard/static/js/3.9c39beb4.chunk.js.map",
+    "static/js/4.6376c6ce.chunk.js": "/whiteboard/static/js/4.6376c6ce.chunk.js",
+    "static/js/4.6376c6ce.chunk.js.map": "/whiteboard/static/js/4.6376c6ce.chunk.js.map",
+    "static/js/5.5a87dd65.chunk.js": "/whiteboard/static/js/5.5a87dd65.chunk.js",
+    "static/js/5.5a87dd65.chunk.js.map": "/whiteboard/static/js/5.5a87dd65.chunk.js.map",
+    "static/js/6.3b0fe031.chunk.js": "/whiteboard/static/js/6.3b0fe031.chunk.js",
+    "static/js/6.3b0fe031.chunk.js.map": "/whiteboard/static/js/6.3b0fe031.chunk.js.map",
+    "static/js/7.7eddb5ef.chunk.js": "/whiteboard/static/js/7.7eddb5ef.chunk.js",
+    "static/js/7.7eddb5ef.chunk.js.map": "/whiteboard/static/js/7.7eddb5ef.chunk.js.map",
+    "static/js/8.27225fdb.chunk.js": "/whiteboard/static/js/8.27225fdb.chunk.js",
+    "static/js/8.27225fdb.chunk.js.map": "/whiteboard/static/js/8.27225fdb.chunk.js.map",
+    "static/js/9.85292cf0.chunk.js": "/whiteboard/static/js/9.85292cf0.chunk.js",
+    "static/js/9.85292cf0.chunk.js.map": "/whiteboard/static/js/9.85292cf0.chunk.js.map",
+    "static/js/10.7bd3dc3f.chunk.js": "/whiteboard/static/js/10.7bd3dc3f.chunk.js",
+    "static/js/10.7bd3dc3f.chunk.js.map": "/whiteboard/static/js/10.7bd3dc3f.chunk.js.map",
+    "index.html": "/whiteboard/index.html",
+    "precache-manifest.0f970f56b84ae5df083160b782d03749.js": "/whiteboard/precache-manifest.0f970f56b84ae5df083160b782d03749.js",
+    "service-worker.js": "/whiteboard/service-worker.js",
+    "static/css/main.c9eb22c8.chunk.css.map": "/whiteboard/static/css/main.c9eb22c8.chunk.css.map",
+    "static/js/2.f74cf25f.chunk.js.LICENSE.txt": "/whiteboard/static/js/2.f74cf25f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.948c14c4.js",
+    "static/js/2.f74cf25f.chunk.js",
+    "static/css/main.c9eb22c8.chunk.css",
+    "static/js/main.211d78cc.chunk.js"
+  ]
+}

@@ -1,0 +1,2 @@
+(this.webpackJsonpundefined=this.webpackJsonpundefined||[]).push([[8],{137:function(e,t,i){"use strict";i.r(t),t.default=async(e={})=>{try{const t=await window.chooseFileSystemEntries({accepts:[{description:e.description||"",mimeTypes:e.mimeTypes||["*/*"],extensions:e.extensions||[""]}],multiple:e.multiple||!1});if(e.multiple){const e=[];for(const i of t){const t=await i.getFile();t.handle=i,e.push(t)}return e}const i=await t.getFile();return i.handle=t,i}catch(e){throw e}}}}]);
+//# sourceMappingURL=8.27225fdb.chunk.js.map

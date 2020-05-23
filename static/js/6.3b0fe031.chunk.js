@@ -1,0 +1,2 @@
+(this.webpackJsonpundefined=this.webpackJsonpundefined||[]).push([[6],{141:function(e,t,n){"use strict";n.r(t),t.default=async(e,t={})=>{const n=document.createElement("a");n.download=t.fileName||"Untitled",n.href=URL.createObjectURL(e),n.addEventListener("click",e=>{n.remove(),setTimeout(()=>URL.revokeObjectURL(n.href),3e4)}),setTimeout(()=>n.click(),0)}}}]);
+//# sourceMappingURL=6.3b0fe031.chunk.js.map

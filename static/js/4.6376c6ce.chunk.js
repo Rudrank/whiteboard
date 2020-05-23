@@ -1,0 +1,2 @@
+(this.webpackJsonpundefined=this.webpackJsonpundefined||[]).push([[4],{139:function(e,t,i){"use strict";i.r(t),t.default=async(e={})=>(e.recursive=e.recursive||!1,e.multiple=e.multiple||!1,new Promise(t=>{const i=document.createElement("input");i.type="file",i.webkitdirectory=!0,i.multiple=e.multiple,i.addEventListener("change",()=>{i.remove();let r=Array.from(i.files);return e.recursive||(r=r.filter(e=>2===e.webkitRelativePath.split("/").length)),t(r)}),i.click()}))}}]);
+//# sourceMappingURL=4.6376c6ce.chunk.js.map
